@@ -1,0 +1,59 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",TRT 1
+https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=8cetw6gsj833&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",Kanal D
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8cetz3t4f6on&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",STAR
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8ceu1kk4gp6f&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",TV8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8ceuculdcjlc&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",SHOW
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=8ceuhcj1h1ei&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",TV2
+https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=8ceuksjfzb66&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",KANAL7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
+#EXTINF:-1 group-title="HABER",HALK TV
+https://halktv.daioncdn.net/halktv/halktv_720p.m3u8?sid=8cev9x6f3gsn&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+
+#EXTINF:-1 group-title="HABER",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="HABER",HABERTÜRK
+https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8cevinxnhl36&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",TV8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",TV100
+https://tv100.daioncdn.net/tv100/tv100_720p.m3u8?&sid=8cevxczn7l4u&app=356e7599-d81d-4357-935a-355a1ad9846e&ce=2
+
+#EXTINF:-1 group-title="SPOR",TRT SPOR
+https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=8cewnhcdz9zs&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
+
+#EXTINF:-1 tvg-id="" tvg-name="A2 ʜᴅ 1080" tvg-logo="https://i.hizliresim.com/mg2mb4z.png" group-title="ULUSAL KANALLAR",A2 ʜᴅ 1080
+https://bulut99.shop/live/Tolunaytorlak/Tolunay59/43.m3u8
+
+
+
+
+
+
+
+
+
+
