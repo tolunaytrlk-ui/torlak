@@ -63,8 +63,8 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Edirne TV" tvg-logo="https://i.hizliresim.com/bam8day.jpg" group-title="TR • YEREL",Edirne TV
 https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1455049.m3u8
 
-#EXTINF:-1 group-title="ULUSAL KANALLAR",TV100
-https://tv100.daioncdn.net/tv100/tv100_720p.m3u8?&sid=8cevxczn7l4u&app=356e7599-d81d-4357-935a-355a1ad9846e&ce=2
+#EXTINF:-1 tvg-id="" tvg-name="TV100 HD" tvg-logo="https://i.hizliresim.com/jkzxy89.png" group-title="TR • HABER",TV100 HD
+https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1088.m3u8
 
 #EXTINF:-1 group-title="SPOR",TRT SPOR
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=8cewnhcdz9zs&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
