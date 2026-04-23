@@ -1,10 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ULUSAL KANALLAR",TRT 1
-https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=8cetw6gsj833&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-
-#EXTINF:-1 tvg-id="" tvg-name="TRT 4K Uʜᴅ 2160p" tvg-logo="https://i.hizliresim.com/sb85zwj.jpg" group-title="TR • ULUSAL",TRT 4K Uʜᴅ 2160p
-https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 ʜᴅ 1080p (CIHAZ)" tvg-logo="https://i.hizliresim.com/sb85zwj.jpg" group-title="TR • ULUSAL",TRT 1 ʜᴅ 1080p (CIHAZ)
+https://bulut99.shop/live/Tolunaytorlak/Tolunay59/3.m3u8
 
 #EXTINF:-1 group-title="ULUSAL KANALLAR",ATV
 https://bulut99.shop/live/Tolunaytorlak/Tolunay59/7.m3u8
