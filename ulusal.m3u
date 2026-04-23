@@ -36,8 +36,8 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 group-title="ULUSAL KANALLAR",KANAL7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
-#EXTINF:-1 group-title="HABER",HALK TV
-https://halktv.daioncdn.net/halktv/halktv_720p.m3u8?sid=8cev9x6f3gsn&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV ʜᴅ 1080" tvg-logo="https://i.hizliresim.com/8o05ypm.jpg" group-title="TR • HABER",HALK TV ʜᴅ 1080
+https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1045.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NTV ʜᴅ 1080" tvg-logo="https://i.hizliresim.com/e0b3ydt.png" group-title="TR • HABER",NTV ʜᴅ 1080
 https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1060.m3u8
