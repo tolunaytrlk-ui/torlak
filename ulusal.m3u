@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1 ʜᴅ 1080p (CIHAZ)" tvg-logo="https://i.hizliresim.com/sb85zwj.jpg" group-title="TR • ULUSAL",TRT 1 ʜᴅ 1080p (CIHAZ)
-https://bulut99.shop/live/Tolunaytorlak/Tolunay59/3.m3u8
+https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=8d1k9nonvfyn&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 
 #EXTINF:-1 group-title="ULUSAL KANALLAR",ATV
 https://bulut99.shop/live/Tolunaytorlak/Tolunay59/7.m3u8
@@ -16,7 +16,7 @@ https://bulut99.shop/live/Tolunaytorlak/Tolunay59/27.m3u8
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8cetz3t4f6on&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR ʜᴅ 1080" tvg-logo="https://i.hizliresim.com/a2fyydp.png" group-title="TR • ULUSAL",STAR ʜᴅ 1080
-https://bulut99.shop/live/Tolunaytorlak/Tolunay59/17.m3u8
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8d1lvo0f3of7&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 
 #EXTINF:-1 group-title="ULUSAL KANALLAR",TV8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8ceuculdcjlc&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
@@ -37,7 +37,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV ʜᴅ 1080" tvg-logo="https://i.hizliresim.com/8o05ypm.jpg" group-title="TR • HABER",HALK TV ʜᴅ 1080
-https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1045.m3u8
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=8d1lbdd4vn7d&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
 
 #EXTINF:-1 tvg-id="" tvg-name="NTV ʜᴅ 1080" tvg-logo="https://i.hizliresim.com/e0b3ydt.png" group-title="TR • HABER",NTV ʜᴅ 1080
 https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1060.m3u8
@@ -58,13 +58,13 @@ https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1064.m3u8
 https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1000.m3u8
 
 #EXTINF:-1 group-title="ULUSAL KANALLAR",TV8.5
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=8d1lgiqwk1ie&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 
 #EXTINF:-1 tvg-id="" tvg-name="Edirne TV" tvg-logo="https://i.hizliresim.com/bam8day.jpg" group-title="TR • YEREL",Edirne TV
-https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1455049.m3u8
+https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV100 HD" tvg-logo="https://i.hizliresim.com/jkzxy89.png" group-title="TR • HABER",TV100 HD
-https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1088.m3u8
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?&sid=8d1kzmblhpcg&app=356e7599-d81d-4357-935a-355a1ad9846e&ce=2
 
 #EXTINF:-1 group-title="SPOR",TRT SPOR
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=8cewnhcdz9zs&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
@@ -75,17 +75,4 @@ https://bulut99.shop/live/Tolunaytorlak/Tolunay59/9337.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A2 ʜᴅ 1080" tvg-logo="https://i.hizliresim.com/mg2mb4z.png" group-title="ULUSAL KANALLAR",A2 ʜᴅ 1080
 https://bulut99.shop/live/Tolunaytorlak/Tolunay59/43.m3u8
 
-#EXTINF:-1 tvg-id="9629e7b7-abcc-48da-abfe-da9491c70663" tvg-name="7/24 Çukur" tvg-logo="" group-title="TR • 7/24 SİNEMA",7/24 Çukur
-https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1465782.m3u8
 
-#EXTINF:-1 tvg-id="45cd2b63-dd65-4a8c-bcd5-906ddf387146" tvg-name="Recep İvedik" tvg-logo="" group-title="TR • 7/24 SİNEMA",Recep İvedik
-https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1534373.m3u8
-
-#EXTINF:-1 tvg-id="2be2a37a-dc81-49ed-a720-5f2fd7beb8dd" tvg-name="Hızlı ve Ofkeli" tvg-logo="https://i.hizliresim.com/rroz3si.jpg" group-title="TR • 7/24 SİNEMA",Hızlı ve Ofkeli
-https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1536932.m3u8
-
-#EXTINF:-1 tvg-id="da1c9645-ee36-4040-a9a4-f0610dd525ac" tvg-name="Ip Man" tvg-logo="https://i.hizliresim.com/fwsyqie.jpg" group-title="TR • 7/24 SİNEMA",Ip Man
-https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1537365.m3u8
-
-http://schwarzer-1903.com:8080/Mesgold5121x/FYXeWVghxT/390013
-#EXTINF:-1 tvg-id="261017 NETFLIX DIZI" tvg-name="TR: DIZIAX Adanali" tvg-logo="261017 NETFLIX DIZI" group-title="261017 YERLİ DIZI 7/24",TR: DIZIAX Adanali
