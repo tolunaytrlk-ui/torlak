@@ -77,3 +77,12 @@ https://bulut99.shop/live/Tolunaytorlak/Tolunay59/43.m3u8
 
 #EXTINF:-1 tvg-id="adanalı" tvg-name="Adanalı 7/24" tvg-logo="https://yt3.googleusercontent.com/2bi7q6AcVbEQwlxZSvTthnHUTK-83MKOSuuSwvLA3uwuki8sYv0HfBN27TJjL7CM8zuMH3HzDg=s160-c-k-c0x00ffffff-no-rj" group-title="YouTube Dizi - Film",Adanalı 7/24
 http://87.121.104.29:1071/adanalı/stream.m3u8?token=ee04d90a3ce89b5c92ed98a680c73863
+
+#EXTINF:-1 tvg-id="261017 NETFLIX DIZI" tvg-name="TR: ORUMCEK ADAM 7/24" tvg-logo="261017 NETFLIX DIZI" group-title="7/24",TR: ORUMCEK ADAM 
+http://schwarzer-1903.com:8080/Mesgold5121x/FYXeWVghxT/142136
+
+#EXTINF:-1 tvg-id="emretkomutanimyt" tvg-name="Emret Komutanım 7/24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_km2n7rZBTorgl2Ql0Ts5-JWXd1jtIzfeKbVioXgjdpFkI=s160-c-k-c0x00ffffff-no-rj" group-title="YouTube Dizi - Film",Emret Komutanım 7/24
+http://87.121.104.29:1071/emretkomutanimyt/stream.m3u8?token=ee04d90a3ce89b5c92ed98a680c73863
+
+#EXTINF:-1 tvg-id="kemalsunal" tvg-name="Kemal Sunal 7/24" tvg-logo="https://yt3.googleusercontent.com/-ymD4Yk5B67ZHKsffxetYiFvZQB9Ckq-9Ft7gfk0JpietBDtGIIqGJQeloIasQy_DHIo_8jJYQ=s160-c-k-c0x00ffffff-no-rj" group-title="YouTube Dizi - Film",Kemal Sunal 7/24
+http://87.121.104.29:1071/kemalsunal/stream.m3u8?token=ee04d90a3ce89b5c92ed98a680c73863
