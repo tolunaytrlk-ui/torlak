@@ -1,13 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1 ʜᴅ 1080p (CIHAZ)" tvg-logo="https://i.hizliresim.com/sb85zwj.jpg" group-title="TR • ULUSAL",TRT 1 ʜᴅ 1080p (CIHAZ)
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 ʜᴅ 1080p (CIHAZ)" tvg-logo="https://i.hizliresim.com/sb85zwj.jpg" group-title="TR • ULUSAL KANALLAR",TRT 1 ʜᴅ 1080p 
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=8d1k9nonvfyn&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 
 #EXTINF:-1 group-title="ULUSAL KANALLAR",ATV
 https://bulut99.shop/live/Tolunaytorlak/Tolunay59/7.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SHOW TURK ʜᴅ" tvg-logo="" group-title="TR • ULUSAL",SHOW TURK ʜᴅ
-https://bulut99.shop/live/Tolunaytorlak/Tolunay59/73.m3u8
 
 #EXTINF:-1 group-title="ULUSAL KANALLAR",NOW
 https://bulut99.shop/live/Tolunaytorlak/Tolunay59/27.m3u8
@@ -15,13 +12,13 @@ https://bulut99.shop/live/Tolunaytorlak/Tolunay59/27.m3u8
 #EXTINF:-1 group-title="ULUSAL KANALLAR",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8cetz3t4f6on&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR ʜᴅ 1080" tvg-logo="https://i.hizliresim.com/a2fyydp.png" group-title="TR • ULUSAL",STAR ʜᴅ 1080
+#EXTINF:-1 tvg-id="" tvg-name="STAR ʜᴅ 1080" tvg-logo="https://i.hizliresim.com/a2fyydp.png" group-title="TR • ULUSAL KANALLAR",STAR ʜᴅ 1080
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8d1lvo0f3of7&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 
 #EXTINF:-1 group-title="ULUSAL KANALLAR",TV8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8ceuculdcjlc&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTV ʜᴅ 1080p  (CIHAZ)" tvg-logo="https://i.hizliresim.com/qx4jd5i.png" group-title="TR • ULUSAL",SHOWTV ʜᴅ 1080p  (CIHAZ)
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTV ʜᴅ 1080p  (CIHAZ)" tvg-logo="https://i.hizliresim.com/qx4jd5i.png" group-title="TR • ULUSAL KANALLAR",SHOWTV ʜᴅ 1080p 
 https://bulut99.shop/live/Tolunaytorlak/Tolunay59/14.m3u8
 
 #EXTINF:-1 group-title="ULUSAL KANALLAR",TV2
@@ -38,9 +35,6 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV ʜᴅ 1080" tvg-logo="https://i.hizliresim.com/8o05ypm.jpg" group-title="TR • HABER",HALK TV ʜᴅ 1080
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=8d1lbdd4vn7d&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
-
-#EXTINF:-1 tvg-id="" tvg-name="NTV ʜᴅ 1080" tvg-logo="https://i.hizliresim.com/e0b3ydt.png" group-title="TR • HABER",NTV ʜᴅ 1080
-https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1060.m3u8
 
 #EXTINF:-1 group-title="HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8
@@ -60,9 +54,6 @@ https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1000.m3u8
 #EXTINF:-1 group-title="ULUSAL KANALLAR",TV8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=8d1lgiqwk1ie&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 
-#EXTINF:-1 tvg-id="" tvg-name="Edirne TV" tvg-logo="https://i.hizliresim.com/bam8day.jpg" group-title="TR • YEREL",Edirne TV
-https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TV100 HD" tvg-logo="https://i.hizliresim.com/jkzxy89.png" group-title="TR • HABER",TV100 HD
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?&sid=8d1kzmblhpcg&app=356e7599-d81d-4357-935a-355a1ad9846e&ce=2
 
@@ -74,8 +65,5 @@ https://bulut99.shop/live/Tolunaytorlak/Tolunay59/9337.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="A2 ʜᴅ 1080" tvg-logo="https://i.hizliresim.com/mg2mb4z.png" group-title="ULUSAL KANALLAR",A2 ʜᴅ 1080
 https://bulut99.shop/live/Tolunaytorlak/Tolunay59/43.m3u8
-
-#EXTINF:-1 tvg-id="adanalı" tvg-name="Adanalı 7/24" tvg-logo="https://yt3.googleusercontent.com/2bi7q6AcVbEQwlxZSvTthnHUTK-83MKOSuuSwvLA3uwuki8sYv0HfBN27TJjL7CM8zuMH3HzDg=s160-c-k-c0x00ffffff-no-rj" group-title="7/24",TR: Adanalı 7/24
-http://87.121.104.29:1071/adanalı/stream.m3u8?token=ee04d90a3ce89b5c92ed98a680c73863
 
 
