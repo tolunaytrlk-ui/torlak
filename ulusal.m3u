@@ -33,10 +33,6 @@ https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="HABER",HABERTÜRK
 https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8cevinxnhl36&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
 
-#EXTINF:-1 group-title="HABER",CNNTÜRK
-https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1020.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="A HABER ʜᴅ 1080" tvg-logo="https://i.hizliresim.com/24oh6sp.jpg" group-title=" HABER",A HABER ʜᴅ 1080
 https://bulut99.shop/live/Tolunaytorlak/Tolunay59/1000.m3u8
 
