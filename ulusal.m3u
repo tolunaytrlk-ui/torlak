@@ -6,6 +6,9 @@ https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=8d1k9nonvfyn&app=ed3904e8-
 #EXTINF:-1 group-title="ULUSAL KANALLAR",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8cetz3t4f6on&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 
+#EXTINF:-1 group-title="ULUSAL KANALLAR" tvg-logo="https://assets.uzunmuhalefet.com/logos/49ce7689-87c7-4a06-80a7-f5cdf9a19481.png" tvg-url="https://www.showtv.com.tr/" tvg-id="ShowTV.tr",Show TV
+https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3u8
+
 #EXTINF:-1 group-title="ULUSAL KANALLAR" tvg-logo="https://assets.uzunmuhalefet.com/logos/ff506778-7000-4a3b-8376-994a8f32058b.png" tvg-url="https://www.atv.com.tr/" tvg-id="ATV.tr",ATV
 https://streams.uzunmuhalefet.com/stream/c8758555-8581-4dec-9a46-ebcfaf9ace0a.m3u8
 
@@ -14,12 +17,6 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8d1lvo0f3of7&app=a20ac41
 
 #EXTINF:-1 group-title="ULUSAL KANALLAR",TV8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8ceuculdcjlc&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://assets.uzunmuhalefet.com/logos/49ce7689-87c7-4a06-80a7-f5cdf9a19481.png" tvg-url="https://www.showtv.com.tr/" tvg-id="ShowTV.tr",Show TV
-https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3u8
-
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://assets.uzunmuhalefet.com/logos/f49135ae-a8f7-45b4-8762-e3e447215e7d.png" tvg-url="https://www.kanald.com.tr/" tvg-id="KanalD.tr",Kanal D
-https://streams.uzunmuhalefet.com/stream/6bdc8fb5-3e82-4b44-a0b1-6ab9fdc35d3f.m3u8
 
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://assets.uzunmuhalefet.com/logos/e540b948-8fba-4163-ac65-1d4e8f8bf1bc.png" tvg-url="https://www.nowtv.com.tr/" tvg-id="NOWTV.tr",NOW TV
 https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8
