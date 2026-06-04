@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1 ʜᴅ 1080p (CIHAZ)" tvg-logo="https://i.hizliresim.com/sb85zwj.jpg" group-title="ULUSAL KANALLAR",TRT 1 ʜᴅ 1080p 
-https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=8d1k9nonvfyn&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1 group-title="ULUSAL KANALLAR" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" tvg-url="https://www.trt1.com.tr/" tvg-id="TRT1.tr",TRT 1
+https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8
 
 #EXTINF:-1 group-title="ULUSAL KANALLAR",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8cetz3t4f6on&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
@@ -12,13 +12,13 @@ https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3
 #EXTINF:-1 group-title="ULUSAL KANALLAR" tvg-logo="https://assets.uzunmuhalefet.com/logos/ff506778-7000-4a3b-8376-994a8f32058b.png" tvg-url="https://www.atv.com.tr/" tvg-id="ATV.tr",ATV
 https://streams.uzunmuhalefet.com/stream/c8758555-8581-4dec-9a46-ebcfaf9ace0a.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR ʜᴅ 1080" tvg-logo="https://i.hizliresim.com/a2fyydp.png" group-title="ULUSAL KANALLAR",STAR ʜᴅ 1080
-https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8d1lvo0f3of7&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+#EXTINF:-1 group-title="ULUSAL KANALLAR" tvg-logo="https://assets.uzunmuhalefet.com/logos/8bd73113-9389-419a-9341-55c3e82469b5.png" tvg-url="https://www.startv.com.tr/" tvg-id="StarTV.tr",Star TV
+https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3u8
 
 #EXTINF:-1 group-title="ULUSAL KANALLAR",TV8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8ceuculdcjlc&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://assets.uzunmuhalefet.com/logos/e540b948-8fba-4163-ac65-1d4e8f8bf1bc.png" tvg-url="https://www.nowtv.com.tr/" tvg-id="NOWTV.tr",NOW TV
+#EXTINF:-1 group-title="ULUSAL KANALLAR" tvg-logo="https://assets.uzunmuhalefet.com/logos/e540b948-8fba-4163-ac65-1d4e8f8bf1bc.png" tvg-url="https://www.nowtv.com.tr/" tvg-id="NOWTV.tr",NOW TV
 https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8
 
 #EXTINF:-1 group-title="ULUSAL KANALLAR",TV2
