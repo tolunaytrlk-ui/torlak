@@ -15,12 +15,6 @@ https://kafelok.testworker0y.workers.dev/channel/U2hvdyBUViB8IEE=?token=d145b12c
 #EXTINF:-1 tvg-id="kabloshowtv" tvg-name="Show Tv -C-" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/jpg/93eebff893a76defd8ab61fdb69943c3.jpg" group-title="Ulusal",Show Tv -C-
 https://zambazumba.testworkery0.workers.dev/showtv?key=patr0n&token=d145b12c603f249a5d7fe2cca54df853
 
-#EXTINF:-1 tvg-id="atv" tvg-name="ATV -A-" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/jpg/50f26ac81150eb251be02f16e329d5ff.jpg" group-title="Ulusal",ATV -A-
-https://dosemeci.denek1544.workers.dev/izle/atv-110.m3u8?token=d145b12c603f249a5d7fe2cca54df853
-
-#EXTINF:-1 tvg-id="atvb" tvg-name="ATV -B-" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/jpg/50f26ac81150eb251be02f16e329d5ff.jpg" group-title="Ulusal",ATV -B-
-https://kafelok.testworker0y.workers.dev/channel/QXR2IHwgQg==?token=d145b12c603f249a5d7fe2cca54df853
-
 #EXTINF:-1 tvg-id="atvcc" tvg-name="ATV -C-" tvg-logo="https://a.prectv70.lol/uploads/cache/channel_thumb/uploads/jpg/50f26ac81150eb251be02f16e329d5ff.jpg" group-title="Ulusal",ATV -C-
 https://zambazumba.testworkery0.workers.dev/atv?key=patr0n&token=d145b12c603f249a5d7fe2cca54df853
 
@@ -29,12 +23,6 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8jt0zn4rviix&app=a20ac41
 
 #EXTINF:-1 group-title="ULUSAL KANALLAR",TV8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8ceuculdcjlc&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-
-#EXTINF:-1 tvg-id="foxtv" tvg-name="Now -A-" tvg-logo="https://i.ibb.co/rZhQ082/NOW-TV-Turkey-wordmark-red.png" group-title="Ulusal",Now -A-
-https://dosemeci.denek1544.workers.dev/izle/foxtv.m3u8?token=d145b12c603f249a5d7fe2cca54df853
-
-#EXTINF:-1 tvg-id="foxtvb" tvg-name="Now -B-" tvg-logo="https://i.ibb.co/rZhQ082/NOW-TV-Turkey-wordmark-red.png" group-title="Ulusal",Now -B-
-http://87.121.104.29:5010/channel?id=245997&token=469018e90e9ca3bead8f7862cfe0bb2e
 
 #EXTINF:-1 tvg-id="nowc" tvg-name="Now -C-" tvg-logo="https://i.ibb.co/rZhQ082/NOW-TV-Turkey-wordmark-red.png" group-title="Ulusal",Now -C-
 https://zambazumba.testworkery0.workers.dev/now?key=patr0n&token=d145b12c603f249a5d7fe2cca54df853
@@ -78,14 +66,8 @@ http://87.121.104.29:1071/asporyt/stream.m3u8?token=469018e90e9ca3bead8f7862cfe0
 #EXTINF:-1 tvg-id="sozcu" tvg-name="Sözcü Tv YT" tvg-logo="https://www.indyturk.com/sites/default/files/article/main_image/2021/07/07/705061-474968398.jpg" group-title="Haber",Sözcü Tv YT
 http://87.121.104.29:1071/sozcu/stream.m3u8?token=469018e90e9ca3bead8f7862cfe0bb2e
 
-EXTINF:-1 tvg-id="dmax" tvg-name="Dmax -A-" tvg-logo="https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s160-c-k-c0x00ffffff-no-rj" group-title="Belgesel",Dmax -A-
-https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=dUtLcFk4TkM1YjBOWlFIa1huL0UrMUYvcjhEcStnVU1TZUpsOVo5QXV4ST0=.m3u8
-
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC -A-" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/jpg/08cd8548f90ea341ac8bf315ec5ab4f9.jpg" group-title="Belgesel",TLC -A-
-https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=V1JHMUZBdGFOV0k2d2szUm5hVzA4RFdmejliTEVnQkZEQWNEN29qNzJ6Yz0=.m3u8
-
-#EXTINF:-1 tvg-id="tlcyedek" tvg-name="TLC -B-" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/jpg/08cd8548f90ea341ac8bf315ec5ab4f9.jpg" group-title="Belgesel",TLC -B-
-https://hassktrname.testworkery0.workers.dev//izle/tlc.m3u8?token=d145b12c603f249a5d7fe2cca54df853
+#EXTINF:-1 tvg-id="sozcuyedek" tvg-name="Sözcü Tv -B-" tvg-logo="https://www.indyturk.com/sites/default/files/article/main_image/2021/07/07/705061-474968398.jpg" group-title="Haber",Sözcü Tv -B-
+https://ddiyanetcocuk.testworkery0.workers.dev/?ch=sozcu&token=d145b12c603f249a5d7fe2cca54df853
 
 #EXTINF:-1 tvg-id="kemalsunal" tvg-name="Kemal Sunal 7/24" tvg-logo="https://yt3.googleusercontent.com/-ymD4Yk5B67ZHKsffxetYiFvZQB9Ckq-9Ft7gfk0JpietBDtGIIqGJQeloIasQy_DHIo_8jJYQ=s160-c-k-c0x00ffffff-no-rj" group-title="YouTube Dizi - Film",Kemal Sunal 7/24
 http://87.121.104.29:1071/kemalsunal/stream.m3u8?token=469018e90e9ca3bead8f7862cfe0bb2e
