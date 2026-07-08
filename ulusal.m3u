@@ -30,8 +30,14 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8jt0zn4rviix&app=a20ac41
 #EXTINF:-1 group-title="ULUSAL KANALLAR",TV8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8ceuculdcjlc&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
-#EXTINF:-1 group-title="ULUSAL KANALLAR" tvg-logo="https://assets.uzunmuhalefet.com/logos/e540b948-8fba-4163-ac65-1d4e8f8bf1bc.png" tvg-url="https://www.nowtv.com.tr/" tvg-id="NOWTV.tr",NOW TV
-https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8
+#EXTINF:-1 tvg-id="foxtv" tvg-name="Now -A-" tvg-logo="https://i.ibb.co/rZhQ082/NOW-TV-Turkey-wordmark-red.png" group-title="Ulusal",Now -A-
+https://dosemeci.denek1544.workers.dev/izle/foxtv.m3u8?token=d145b12c603f249a5d7fe2cca54df853
+
+#EXTINF:-1 tvg-id="foxtvb" tvg-name="Now -B-" tvg-logo="https://i.ibb.co/rZhQ082/NOW-TV-Turkey-wordmark-red.png" group-title="Ulusal",Now -B-
+http://87.121.104.29:5010/channel?id=245997&token=469018e90e9ca3bead8f7862cfe0bb2e
+
+#EXTINF:-1 tvg-id="nowc" tvg-name="Now -C-" tvg-logo="https://i.ibb.co/rZhQ082/NOW-TV-Turkey-wordmark-red.png" group-title="Ulusal",Now -C-
+https://zambazumba.testworkery0.workers.dev/now?key=patr0n&token=d145b12c603f249a5d7fe2cca54df853
 
 #EXTINF:-1 group-title="ULUSAL KANALLAR",TV2
 https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=8ceuksjfzb66&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3
