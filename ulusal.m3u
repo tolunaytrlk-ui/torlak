@@ -183,5 +183,7 @@ http://87.121.104.29:1071/cukuryt/stream.m3u8?token=469018e90e9ca3bead8f7862cfe0
 #EXTINF:-1 tvg-id="avsarfilm" tvg-name="Avşar Film" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k1C1zfgJHOR6XTDfeinNiMOErAveyN781X8BK-4n6b_L4=s160-c-k-c0x00ffffff-no-rj" group-title="YouTube Dizi - Film",Avşar Film
 http://87.121.104.29:1071/avsarfilm/stream.m3u8?token=469018e90e9ca3bead8f7862cfe0bb2e
 
+#EXTINF:-1 tvg-id="Fast1" tvg-name="7/24 Hizli ve Ofkeli" group-title="Kendi Kanallarim",7/24 Hizli ve Ofkeli
+http://192.168.10
 
 
