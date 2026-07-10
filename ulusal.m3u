@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="TR:TRT 1 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/trt1.png" group-title="ULUSAL KANALLAR",TR:TRT 1 UHD
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/df50ee79-aff9-4983-941b-fc985ac34143.ts
 
+#EXTINF:-1 group-title="ULUSAL KANALLAR" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" tvg-url="https://www.trt1.com.tr/" tvg-id="TRT1.tr",TRT 1
+https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8jt0qbgurgyv&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:TRT 1 UHD [YEDEK]" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/trt1.png" group-title="ULUSAL KANALLAR",TR:TRT 1 UHD [YEDEK]
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/0704b719-3973-4731-b1a9-d7761801e981.ts
 
@@ -66,9 +69,6 @@ http://germanyservers3.net/live/Tolunay22/Tolunay5922/af351190-a379-4283-a52c-32
 
 #EXTINF:-1 tvg-id="" tvg-name="TR:SOZCU TV UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/sozcu.png" group-title="HABER",TR:SOZCU TV UHD
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/3d521b90-d834-4bbb-ba63-863986ee98f5.ts
-
-#EXTINF:-1 group-title="ULUSAL KANALLAR" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" tvg-url="https://www.trt1.com.tr/" tvg-id="TRT1.tr",TRT 1
-https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8jt0qbgurgyv&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 
 #EXTINF:-1 group-title="ULUSAL KANALLAR",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8cetz3t4f6on&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
@@ -228,208 +228,100 @@ http://germanyservers3.net/live/Tolunay22/Tolunay5922/6a9f295e-2899-4aad-ac72-fd
 #EXTINF:-1 tvg-id="" tvg-name="TR:HT SPOR UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/htspor.png" group-title="SPOR",TR:HT SPOR UHD
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/37efc3eb-ba9e-46ef-8b0d-12ea2a228a77.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX EZEL 7/24 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-EZEL-7-24-.png" group-title="Türk Sinema",TR:CINELUX EZEL 7/24 UHD
+#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX EZEL 7/24 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-EZEL-7-24-.png" group-title="7/24",TR:CINELUX EZEL 7/24 UHD
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/e12f3f6f-347d-4640-b6ec-de0b078e4467.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX GULDUR GULDUR 2 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-GULDUR-GULDUR-.png" group-title="Türk Sinema",TR:CINELUX GULDUR GULDUR 2 UHD
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/da0f68ba-39db-499d-812a-7705953798da.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX ASMALI KONAK 7/24 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-ASMALI-KONAK-7-24.png" group-title="Türk Sinema",TR:CINELUX ASMALI KONAK 7/24 UHD
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/3f7fae97-6551-49d3-9c4c-4fac70b694a8.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX EKMEK TEKNESI 7/24 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-EKMEK-TEKNESI-7-24.png" group-title="Türk Sinema",TR:CINELUX EKMEK TEKNESI 7/24 UHD
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/64ec9e01-8364-4b70-a7e8-c8b0f2ee468b.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX MUHTESEM YUZYIL 7/24 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-MUHTESEM-YUZYIL-7-24-.png" group-title="Türk Sinema",TR:CINELUX MUHTESEM YUZYIL 7/24 UHD
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/43562a92-da5f-4367-967b-f0ef934e18dc.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX ASK-I MEMNU 7/24 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-ASK-I-MEMNU-7-24.png" group-title="Türk Sinema",TR:CINELUX ASK-I MEMNU 7/24 UHD
+#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX ASK-I MEMNU 7/24 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-ASK-I-MEMNU-7-24.png" group-title="7/24",TR:CINELUX ASK-I MEMNU 7/24 UHD
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/540163ac-7276-4df4-8d51-9e1103593028.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX IKINCI BAHAR 7/24 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-IKINCI-BAHAR-7-24.png" group-title="Türk Sinema",TR:CINELUX IKINCI BAHAR 7/24 UHD
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/f2336622-3d8d-4735-9c73-6e721c132a77.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX KURTLAR VADISI 7/24 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-KURTLAR-VADISI-7-24-.png" group-title="Türk Sinema",TR:CINELUX KURTLAR VADISI 7/24 UHD
+#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX KURTLAR VADISI 7/24 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-KURTLAR-VADISI-7-24-.png" group-title="7/24",TR:CINELUX KURTLAR VADISI 7/24 UHD
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/1045bbb7-5b01-45a8-9380-76a7ac62cc18.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX VAHSI BATI UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-VAHSI-BATI-.png" group-title="Türk Sinema",TR:CINELUX VAHSI BATI UHD
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/e110d654-7be1-40e4-a6e8-5fac2ae24510.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX VAHSI BATI 2 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-VAHSI-BATI-2.png" group-title="Türk Sinema",TR:CINELUX VAHSI BATI 2 UHD
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/b930fe94-346f-40e0-9b69-b0345451e74d.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX GULDUR GULDUR UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-GULDUR-GULDUR-.png" group-title="Türk Sinema",TR:CINELUX GULDUR GULDUR UHD
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/f2ed6ffe-ab4d-49ec-813e-ae6e2f1caa19.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX C.G.H.B. 2 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-C.G.H.B.-2.png" group-title="Türk Sinema",TR:CINELUX C.G.H.B. 2 UHD
+#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX C.G.H.B. 2 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-C.G.H.B.-2.png" group-title="7/24",TR:CINELUX C.G.H.B. 2 UHD
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/6af061d3-9b24-4b26-ac62-4a4a03572f16.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX KEMAL SUNAL UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-KEMAL-SUNAL.png" group-title="Türk Sinema",TR:CINELUX KEMAL SUNAL UHD
+#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX KEMAL SUNAL UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-KEMAL-SUNAL.png" group-title="7/24",TR:CINELUX KEMAL SUNAL UHD
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/9be4d094-627f-406b-b4d8-8f8b6b0776ee.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX KEMAL SUNAL 2 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-KEMAL-SUNAL-2-.png" group-title="Türk Sinema",TR:CINELUX KEMAL SUNAL 2 UHD
+#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX KEMAL SUNAL 2 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-KEMAL-SUNAL-2-.png" group-title="7/24",TR:CINELUX KEMAL SUNAL 2 UHD
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/6de28854-e92e-493a-8d05-e17990a5d624.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX TURKAN SORAY UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-TURKAN-SORAY-.png" group-title="Türk Sinema",TR:CINELUX TURKAN SORAY UHD
+#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX TURKAN SORAY UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-TURKAN-SORAY-.png" group-title="7/24",TR:CINELUX TURKAN SORAY UHD
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/455655e7-39ab-4175-a754-e0f3e0b64beb.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX CUNEYT ARKIN UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-CUNEYT-ARKIN.png" group-title="Türk Sinema",TR:CINELUX CUNEYT ARKIN UHD
+#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX CUNEYT ARKIN UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-CUNEYT-ARKIN.png" group-title="7/24",TR:CINELUX CUNEYT ARKIN UHD
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/10031dcb-f9f9-4dfa-8530-fa5b4054edc9.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX YILMAZ GUNEY UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-YILMAZ-GUNEY.png" group-title="Türk Sinema",TR:CINELUX YILMAZ GUNEY UHD
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/555755d2-afd8-4826-b2af-41674d80dccc.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX ZEKI METIN UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-ZEKI-METIN-.png" group-title="Türk Sinema",TR:CINELUX ZEKI METIN UHD
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/ed839870-daf0-4b2a-a74a-0cb70c4a45ee.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:CINELUX SENER SEN UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-SENER-SEN.png" group-title="Türk Sinema",TR:CINELUX SENER SEN UHD
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/247c85c9-cef5-48e6-a18c-8bc9d95060cc.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GPRIME - EŞREF RÜYA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/eeFYLgiRFaG3bKx1qLyC7YOdHJz.jpg" group-title="Türk Sinema",TR:GPRIME - EŞREF RÜYA
+#EXTINF:-1 tvg-id="" tvg-name="TR:GPRIME - EŞREF RÜYA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/eeFYLgiRFaG3bKx1qLyC7YOdHJz.jpg" group-title="7/24",TR:GPRIME - EŞREF RÜYA
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/5dd73047-4678-4679-9fc6-c2b110823960.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - CENNET MAHALLESI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/cennetmah.png" group-title="Türk Sinema",TR:GLIFE - CENNET MAHALLESI ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - CENNET MAHALLESI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/cennetmah.png" group-title="7/24",TR:GLIFE - CENNET MAHALLESI ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/daf93e1b-b7f9-4211-a8d6-5eb17cb85561.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - DAYI SOV ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/dayi.png" group-title="Türk Sinema",TR:GLIFE - DAYI SOV ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - DAYI SOV ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/dayi.png" group-title="7/24",TR:GLIFE - DAYI SOV ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/ea68889b-4900-421a-b05a-530381b820a1.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - DEHA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/deha.png" group-title="Türk Sinema",TR:GLIFE - DEHA ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - DEHA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/deha.png" group-title="7/24",TR:GLIFE - DEHA ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/4b2bd0f1-d103-490d-997c-dce3f204cc93.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - DIRILIS ERTUGRUL ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/dirilisertugrul.png" group-title="Türk Sinema",TR:GLIFE - DIRILIS ERTUGRUL ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/3f7256a8-24be-4ac9-b789-3c6c0537a377.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ESREF RUYA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/esref.png" group-title="Türk Sinema",TR:GLIFE - ESREF RUYA ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ESREF RUYA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/esref.png" group-title="7/24",TR:GLIFE - ESREF RUYA ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/69dca80c-4845-4223-bec8-dea060f396af.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - GASSAL ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/gassal.png" group-title="Türk Sinema",TR:GLIFE - GASSAL ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - GASSAL ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/gassal.png" group-title="7/24",TR:GLIFE - GASSAL ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/c1f1f216-1bcb-4be4-b28d-0d1514f611b9.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - GULDUR GULDUR ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/guldurguldur.png" group-title="Türk Sinema",TR:GLIFE - GULDUR GULDUR ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/7a50ea68-fa1d-4947-8645-9c1a1bfe8634.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ICERDE ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/icerde.png" group-title="Türk Sinema",TR:GLIFE - ICERDE ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ICERDE ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/icerde.png" group-title="7/24",TR:GLIFE - ICERDE ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/ad9ca650-08a8-4148-835f-db066313f171.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ISLER GUCLER ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/islergucler.png" group-title="Türk Sinema",TR:GLIFE - ISLER GUCLER ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/e5f25018-adf2-4b48-87f6-8fd0cd1f919b.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KACAK ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/kacak.png" group-title="Türk Sinema",TR:GLIFE - KACAK ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/9dad02bd-2b72-4356-8dcb-4e477f0654ea.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KARADAYI 1.SEZON ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/karadayi1.png" group-title="Türk Sinema",TR:GLIFE - KARADAYI 1.SEZON ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/5a2fdb92-e3ae-4481-9c17-63d7905babd1.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KARADAYI 2.SEZON ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/karadayi2.png" group-title="Türk Sinema",TR:GLIFE - KARADAYI 2.SEZON ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/3e3a26ed-ba06-4b45-b740-22ded9cf7141.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KARADAYI 3.SEZON ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/karadayi3.png" group-title="Türk Sinema",TR:GLIFE - KARADAYI 3.SEZON ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/2ec8ac39-9f08-4ee4-91df-09ba8ebc6461.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KANIT ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/kanit.png" group-title="Türk Sinema",TR:GLIFE - KANIT ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/52383c6b-ebb0-4382-9717-9fa081a095b5.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KISMET ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/kismet.png" group-title="Türk Sinema",TR:GLIFE - KISMET ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/45f8a53b-d92d-49f2-ab1d-e51afe9211b5.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KIYMA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/kiyma.png" group-title="Türk Sinema",TR:GLIFE - KIYMA ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KIYMA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/kiyma.png" group-title="7/24",TR:GLIFE - KIYMA ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/f1d4d5ca-5f91-4e84-9b2d-54678da095a0.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KIZIL GONCALAR ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/kizilgoncalar.png" group-title="Türk Sinema",TR:GLIFE - KIZIL GONCALAR ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/c04246fe-2a26-4df8-a272-a7bc96e80dad.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KIZILCIK SERBETI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/kizilcikserbeti.png" group-title="Türk Sinema",TR:GLIFE - KIZILCIK SERBETI ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/3bb58fac-2ca4-4132-859f-d5a8ca06e128.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KUZEY YILDIZI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/kuzeyyildizi.png" group-title="Türk Sinema",TR:GLIFE - KUZEY YILDIZI ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KUZEY YILDIZI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/kuzeyyildizi.png" group-title="7/24",TR:GLIFE - KUZEY YILDIZI ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/a1ce8896-354b-4da0-9eb2-d81b91f514fa.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KURTLAR VADISI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/kurtlarvadisi.png" group-title="Türk Sinema",TR:GLIFE - KURTLAR VADISI ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KURTLAR VADISI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/kurtlarvadisi.png" group-title="7/24",TR:GLIFE - KURTLAR VADISI ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/5160bebf-5cc7-4a26-b38c-af6b9d109491.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KURTLAR VADISI PUSU ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/kvp.png" group-title="Türk Sinema",TR:GLIFE - KURTLAR VADISI PUSU ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KURTLAR VADISI PUSU ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/kvp.png" group-title="7/24",TR:GLIFE - KURTLAR VADISI PUSU ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/0863f639-20c1-4f1e-9810-9fcfc96894d1.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - LEYLA ILE MECNUN ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/leylailemecnun.png" group-title="Türk Sinema",TR:GLIFE - LEYLA ILE MECNUN ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - LEYLA ILE MECNUN ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/leylailemecnun.png" group-title="7/24",TR:GLIFE - LEYLA ILE MECNUN ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/a427ed21-0ae1-4bc1-a54f-5c7b2024c173.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - MAHSUN J" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/mahsunj.png" group-title="Türk Sinema",TR:GLIFE - MAHSUN J
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - MAHSUN J" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/mahsunj.png" group-title="7/24",TR:GLIFE - MAHSUN J
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/1983982d-d720-4041-b7ca-6de16ce07df3.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - MEVZULAR ACIK MIKROFON ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/mevzularacikmikrofon.png" group-title="Türk Sinema",TR:GLIFE - MEVZULAR ACIK MIKROFON ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/3fc574d3-6596-4507-81ba-edf0e7cc4454.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SON YAZ ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/sonyaz.png" group-title="Türk Sinema",TR:GLIFE - SON YAZ ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SON YAZ ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/sonyaz.png" group-title="7/24",TR:GLIFE - SON YAZ ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/8ccc9d1f-b436-41b9-9fa5-cee0baa2179d.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SIFIR 1 ADANA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/sifir1adana.png" group-title="Türk Sinema",TR:GLIFE - SIFIR 1 ADANA ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SIFIR 1 ADANA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/sifir1adana.png" group-title="7/24",TR:GLIFE - SIFIR 1 ADANA ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/2f04b950-1948-4bde-aeeb-95088321d5e9.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SIHIRLI ANNEM ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/sihirliannem.png" group-title="Türk Sinema",TR:GLIFE - SIHIRLI ANNEM ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SIHIRLI ANNEM ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/sihirliannem.png" group-title="7/24",TR:GLIFE - SIHIRLI ANNEM ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/f1f0c579-ebef-4717-aed2-16fac4edec8d.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - VATANIM SENSIN ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/vatanimsensin.png" group-title="Türk Sinema",TR:GLIFE - VATANIM SENSIN ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/ad9e3b25-b9dd-4b84-b52c-487f0ee72215.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ADILE NASIT ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/adilnenasit.png" group-title="Türk Sinema",TR:GLIFE - ADILE NASIT ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/69bb4bb8-4713-49ec-b474-e3505d1a99e9.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ATA DEMIRER ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/ata.png" group-title="Türk Sinema",TR:GLIFE - ATA DEMIRER ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/104b8b8c-ac85-42c8-8741-ec8f6942079d.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - AYHAN ISIK ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/ayhanisik.png" group-title="Türk Sinema",TR:GLIFE - AYHAN ISIK ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/222994db-ae2f-4186-8ea6-b973fc09ca91.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KEMAL SUNAL ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/kemalsunal.png" group-title="Türk Sinema",TR:GLIFE - KEMAL SUNAL ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/636ddadf-f788-48ef-a38d-a3c650ece18c.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - CUNEYT ARKIN ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/cuneytarkin.png" group-title="Türk Sinema",TR:GLIFE - CUNEYT ARKIN ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/15cec851-ba76-4d1f-92e7-3386543e1695.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - EDIZ HUN ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/edizhun.png" group-title="Türk Sinema",TR:GLIFE - EDIZ HUN ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/e906ef5b-d0d8-4812-9f7a-313711fafc58.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - EMEL SAYIN ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/emelsayin.png" group-title="Türk Sinema",TR:GLIFE - EMEL SAYIN ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/9a14e18d-08ef-4084-8b1a-cdb24d4b387f.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ALPACINO ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/alpacino.png" group-title="Türk Sinema",TR:GLIFE - ALPACINO ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/65558e9a-6655-48af-b137-8321de528cf4.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ANGELINA JOLIE ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/angelinajoliy.png" group-title="Türk Sinema",TR:GLIFE - ANGELINA JOLIE ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/69b5d3c9-578d-489e-8536-bc58e7994f92.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ARNOLD SCHWARZENEGGER ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/arnold.png" group-title="Türk Sinema",TR:GLIFE - ARNOLD SCHWARZENEGGER ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/5ff70be2-3188-4f6a-8a08-a500c679454f.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - CAMERON DIAZ ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/camerondiaz.png" group-title="Türk Sinema",TR:GLIFE - CAMERON DIAZ ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - CAMERON DIAZ ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/camerondiaz.png" group-title="7/24",TR:GLIFE - CAMERON DIAZ ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/9158a5c5-b46d-49fd-9093-525b90bf17e0.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - DWAYNE JOHNSON ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/dwaynejohnson.png" group-title="Türk Sinema",TR:GLIFE - DWAYNE JOHNSON ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - DWAYNE JOHNSON ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/dwaynejohnson.png" group-title="7/24",TR:GLIFE - DWAYNE JOHNSON ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/688a49c4-f87d-460e-b27b-d31b3e674c08.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - HARRY POTTER ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/harrypotter.png" group-title="Türk Sinema",TR:GLIFE - HARRY POTTER ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/ba217164-7242-452c-9608-863ce2608ac6.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - JACKIE CHAN ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/jackiechan.png" group-title="Türk Sinema",TR:GLIFE - JACKIE CHAN ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/44a4617c-444a-4ac2-a80c-3434d6d4f1ab.ts
-
-#EXTINF:-1 tvg-id="2be2a37a-dc81-49ed-a720-5f2fd7beb8dd" tvg-name="Hızlı ve Ofkeli" tvg-logo="https://i.hizliresim.com/rroz3si.jpg" group-title="Türk Sinema",Hızlı ve Ofkeli
+#EXTINF:-1 tvg-id="2be2a37a-dc81-49ed-a720-5f2fd7beb8dd" tvg-name="Hızlı ve Ofkeli" tvg-logo="https://i.hizliresim.com/rroz3si.jpg" group-title="7/24",Hızlı ve Ofkeli
 https://kurt62.shop/live/Tolunaytorlak/Tolunay59/1536932.m3u8
 
-#EXTINF:-1 tvg-id="45cd2b63-dd65-4a8c-bcd5-906ddf387146" tvg-name="Recep İvedik" tvg-logo="" group-title="TR • 7/24 SİNEMA",Recep İvedik
+#EXTINF:-1 tvg-id="45cd2b63-dd65-4a8c-bcd5-906ddf387146" tvg-name="Recep İvedik" tvg-logo="" group-title="7/24",Recep İvedik
 https://kurt62.shop/live/Tolunaytorlak/Tolunay59/1534373.m3u8
 
-#EXTINF:-1 tvg-id="da1c9645-ee36-4040-a9a4-f0610dd525ac" tvg-name="Ip Man" tvg-logo="https://i.hizliresim.com/fwsyqie.jpg" group-title="Türk Sinema",Ip Man
+#EXTINF:-1 tvg-id="da1c9645-ee36-4040-a9a4-f0610dd525ac" tvg-name="Ip Man" tvg-logo="https://i.hizliresim.com/fwsyqie.jpg" group-title="7/24",Ip Man
 https://kurt62.shop/live/Tolunaytorlak/Tolunay59/1537365.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - JASON STATHAM ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/jasonstatham.png" group-title="Türk Sinema",TR:GLIFE - JASON STATHAM ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - JASON STATHAM ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/jasonstatham.png" group-title="7/24",TR:GLIFE - JASON STATHAM ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/995509ca-4543-4bfe-8eb8-4b128eccd63b.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - JAN CLAUDE VAN DAMME ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/jcvd.png" group-title="Türk Sinema",TR:GLIFE - JAN CLAUDE VAN DAMME ʜᴅ
-http://germanyservers3.net/live/Tolunay22/Tolunay5922/53d54c4b-af44-4b14-a600-090d657d7b41.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - JET LI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/jetli.png" group-title="Türk Sinema",TR:GLIFE - JET LI ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - JET LI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/jetli.png" group-title="7/24",TR:GLIFE - JET LI ʜᴅ
 http://germanyservers3.net/live/Tolunay22/Tolunay5922/d5365f60-6d2a-4dc6-a321-ea7fcd28bf30.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TR:TRACE URBAN HD" tvg-logo="https://i0.wp.com/resim.yayins.com/muzik/traceurban.png" group-title="Türk Müzik",TR:TRACE URBAN HD
