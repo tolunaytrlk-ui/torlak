@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="bb54785e-3b97-427e-bc88-4857de49b341" tvg-name="Bilgilendirme Kanalı" tvg-logo="https://i.hizliresim.com/3r0lo7q.jpg" group-title="TR • ULUSAL",Bilgilendirme Kanalı
-https://cadde55.shop/live/Tolunaytorlak/Tolunay59/1479497.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİNSPORTS HABER ʜᴅ 1080" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="TR • BeIN SPORTS",BEİNSPORTS HABER ʜᴅ 1080
 https://cadde55.shop/live/Tolunaytorlak/Tolunay59/1505720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 1 - 4K | ÇOK ÇOK YÜKSEK KALİTEDİR!" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="TR • BeIN SPORTS",TR: BeinSports 1 - 4K | ÇOK ÇOK YÜKSEK KALİTEDİR!
@@ -65,8 +63,6 @@ https://cadde55.shop/live/Tolunaytorlak/Tolunay59/1505744.m3u8
 https://cadde55.shop/live/Tolunaytorlak/Tolunay59/1505746.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRTSPOR ʜᴅ 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-hd-tr.png" group-title="TR • SPOR",TRTSPOR ʜᴅ 1080
 https://trt.daioncdn.net/trtspor/master_1440p.m3u8?platform=trtspor&sid=8nr9f23vwq7r&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
-#EXTINF:-1 tvg-id="" tvg-name="ASPOR FHD (50FPS)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" group-title="TR • SPOR",ASPOR FHD (50FPS)
-https://cadde55.shop/live/Tolunaytorlak/Tolunay59/9336.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASPOR ʜᴅ 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" group-title="TR • SPOR",ASPOR ʜᴅ 1080
 https://cadde55.shop/live/Tolunaytorlak/Tolunay59/9337.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ ʜᴅ 720" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="TR • SPOR",TRT SPOR YILDIZ ʜᴅ 720
@@ -75,12 +71,6 @@ https://cadde55.shop/live/Tolunaytorlak/Tolunay59/9324.m3u8
 https://cadde55.shop/live/Tolunaytorlak/Tolunay59/9339.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRTSPOR ʜᴅ 720p" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-hd-tr.png" group-title="TR • SPOR",TRTSPOR ʜᴅ 720p
 https://cadde55.shop/live/Tolunaytorlak/Tolunay59/9323.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ ʜᴅ 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="TR • SPOR",TRT SPOR YILDIZ ʜᴅ 1080
-https://cadde55.shop/live/Tolunaytorlak/Tolunay59/9327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ ʜᴅ 720" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="TR • SPOR",TRT SPOR YILDIZ ʜᴅ 720
-https://cadde55.shop/live/Tolunaytorlak/Tolunay59/9328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 4K Uʜᴅ 2160p" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-4k-tr.png" group-title="TR • ULUSAL",TRT 4K Uʜᴅ 2160p
-https://cadde55.shop/live/Tolunaytorlak/Tolunay59/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1 ʜᴅ 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" group-title="TR • ULUSAL",TRT 1 ʜᴅ 1080
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8onje6bs6szg&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1 tvg-id="" tvg-name="ATV ʜᴅ 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" group-title="TR • ULUSAL",ATV ʜᴅ 1080
