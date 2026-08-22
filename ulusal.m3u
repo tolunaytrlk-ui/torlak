@@ -74,9 +74,9 @@ https://cadde55.shop/live/Tolunaytorlak/Tolunay59/9323.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1 ʜᴅ 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" group-title="TR • ULUSAL",TRT 1 ʜᴅ 1080
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8onje6bs6szg&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1 tvg-id="" tvg-name="ATV ʜᴅ 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" group-title="TR • ULUSAL",ATV ʜᴅ 1080
-https://vahide257.shop/live/Tolunaytorlak/Tolunay59/7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATV ʜᴅ 720p" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" group-title="TR • ULUSAL",ATV ʜᴅ 720p
-https://vahide257.shop/live/Tolunaytorlak/Tolunay59/8.m3u8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:74:03&stream=373935&extension=ts&play_token=ydiAos7SU2
+#EXTINF:-1 tvg-id="" tvg-name="ATV ʜᴅ 720p" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" group-title="TR • ULUSAL",ATV ʜᴅ 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:74:03&stream=373933&extension=ts&play_token=rZz4L1TWQL
 #EXTINF:-1 tvg-id="" tvg-name="SHOWTV ʜᴅ 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-tr.png" group-title="TR • ULUSAL",SHOWTV ʜᴅ 1080
 https://cadde55.shop/live/Tolunaytorlak/Tolunay59/12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOWTV ʜᴅ 560p" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-tr.png" group-title="TR • ULUSAL",SHOWTV ʜᴅ 560p
@@ -303,3 +303,13 @@ https://kurt62.shop/live/Tolunaytorlak/Tolunay59/1536932.m3u8
 https://kurt62.shop/live/Tolunaytorlak/Tolunay59/1534373.m3u8
 #EXTINF:-1 tvg-id="da1c9645-ee36-4040-a9a4-f0610dd525ac" tvg-name="Ip Man" tvg-logo="https://i.hizliresim.com/fwsyqie.jpg" group-title="7/24",Ip Man
 https://kurt62.shop/live/Tolunaytorlak/Tolunay59/1537365.m3u8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:74:03&stream=375429&extension=ts&play_token=TSCMDiy9YB
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13562.png?26246" group-title="270208 DIZILER 4K",TR: Aşk 101 Sezon 1 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:74:03&stream=375430&extension=ts&play_token=kATGSEfCJ5
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13562.png?26246" group-title="270208 DIZILER 4K",TR: Aşk 101 Sezon 2 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:74:03&stream=379321&extension=ts&play_token=RCrJEkhcTf
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13302.png?ver=13030" group-title="270208 DIZILER 4K",TR: Üç Kuruş 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:74:03&stream=385310&extension=ts&play_token=biVzBVDKv1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13582.jpg?1818" group-title="270208 DIZILER 4K",TR: Sadakatsiz 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:74:03&stream=385311&extension=ts&play_token=0fwCsJWnjL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13581.png?31183" group-title="270208 DIZILER 4K",TR: Ada Masalı 4K
