@@ -303,13 +303,3 @@ https://kurt62.shop/live/Tolunaytorlak/Tolunay59/1536932.m3u8
 https://kurt62.shop/live/Tolunaytorlak/Tolunay59/1534373.m3u8
 #EXTINF:-1 tvg-id="da1c9645-ee36-4040-a9a4-f0610dd525ac" tvg-name="Ip Man" tvg-logo="https://i.hizliresim.com/fwsyqie.jpg" group-title="7/24",Ip Man
 https://kurt62.shop/live/Tolunaytorlak/Tolunay59/1537365.m3u8
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:74:03&stream=375429&extension=ts&play_token=TSCMDiy9YB
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13562.png?26246" group-title="270208 DIZILER 4K",TR: Aşk 101 Sezon 1 4K
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:74:03&stream=375430&extension=ts&play_token=kATGSEfCJ5
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13562.png?26246" group-title="270208 DIZILER 4K",TR: Aşk 101 Sezon 2 4K
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:74:03&stream=379321&extension=ts&play_token=RCrJEkhcTf
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13302.png?ver=13030" group-title="270208 DIZILER 4K",TR: Üç Kuruş 4K
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:74:03&stream=385310&extension=ts&play_token=biVzBVDKv1
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13582.jpg?1818" group-title="270208 DIZILER 4K",TR: Sadakatsiz 4K
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:74:03&stream=385311&extension=ts&play_token=0fwCsJWnjL
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13581.png?31183" group-title="270208 DIZILER 4K",TR: Ada Masalı 4K
