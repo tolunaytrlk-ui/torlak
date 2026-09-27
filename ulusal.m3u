@@ -59,7 +59,6 @@ https://cagri636.shop/live/Tolunaytorlak/Tolunay59/52.m3u8
 https://cagri636.shop/live/Tolunaytorlak/Tolunay59/53.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL7 ʜᴅ 720p" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-7-tr.png" group-title="TR • ULUSAL",KANAL7 ʜᴅ 720p
 https://cagri636.shop/live/Tolunaytorlak/Tolunay59/54.m3u8
-https://cagri636.shop/live/Tolunaytorlak/Tolunay59/55.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER ʜᴅ 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-haber-tr.png" group-title="TR • HABER",A HABER ʜᴅ 1080
 https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA ʜᴅ 720" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" group-title="TR • HABER",A PARA ʜᴅ 720
@@ -188,6 +187,12 @@ https://cagri636.shop/live/Tolunaytorlak/Tolunay59/9261.m3u8
 https://cagri636.shop/live/Tolunaytorlak/Tolunay59/9256.m3u8
 #EXTINF:-1 tvg-id="2be2a37a-dc81-49ed-a720-5f2fd7beb8dd" tvg-name="Hızlı ve Ofkeli" tvg-logo="https://i.hizliresim.com/rroz3si.jpg" group-title="TR • 7/24 SİNEMA",Hızlı ve Ofkeli
 https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1536932.m3u8
+#EXTINF:-1 tvg-id="45cd2b63-dd65-4a8c-bcd5-906ddf387146" tvg-name="Recep İvedik" tvg-logo="" group-title="TR • 7/24 SİNEMA",Recep İvedik
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1534373.m3u8
+#EXTINF:-1 tvg-id="40aaba83-488c-447d-b52d-9ef0906dae24" tvg-name="Ezel" tvg-logo="https://i.hizliresim.com/qi87iyo.jpg" group-title="TR • 7/24 SİNEMA",Ezel
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1537123.m3u8
+#EXTINF:-1 tvg-id="01ac163f-a7c0-47f2-a1d7-7df075875db8" tvg-name="Kurtlar Vadisi Pusu TV" tvg-logo="https://i.hizliresim.com/hhw2zey.png" group-title="TR • 7/24 SİNEMA",Kurtlar Vadisi Pusu TV
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1596877.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S Sport PLUS 2 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-plus-tr.png" group-title="TR • S SPORT",S Sport PLUS 2 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
 https://cagri636.shop/live/Tolunaytorlak/Tolunay59/9251.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT+ PLUS 1 FHD (MAC ZAMANI)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-plus-tr.png" group-title="TR • S SPORT",TR: S SPORT+ PLUS 1 FHD (MAC ZAMANI)
@@ -224,6 +229,68 @@ https://cagri636.shop/live/Tolunaytorlak/Tolunay59/9301.m3u8
 https://cagri636.shop/live/Tolunaytorlak/Tolunay59/9297.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TiViBUSPOR ʜᴅ 1080" tvg-logo="https://i.imgur.com/qvrKQY3.png" group-title="TR • TIVIBU SPORTS",TiViBUSPOR ʜᴅ 1080
 https://cagri636.shop/live/Tolunaytorlak/Tolunay59/9296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİNSPORTS HABER ʜᴅ 1080" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="TR • BeIN SPORTS",BEİNSPORTS HABER ʜᴅ 1080
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 1 - 4K | ÇOK ÇOK YÜKSEK KALİTEDİR!" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="TR • BeIN SPORTS",TR: BeinSports 1 - 4K | ÇOK ÇOK YÜKSEK KALİTEDİR!
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 1 50 FPS | ÇOK YÜKSEK KALİTEDİR!" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="TR • BeIN SPORTS",TR: BeinSports 1 50 FPS | ÇOK YÜKSEK KALİTEDİR!
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1536245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 1 FHD | YÜKSEK KALİTEDİR!" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="TR • BeIN SPORTS",TR: BeinSports 1 FHD | YÜKSEK KALİTEDİR!
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1536246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 1 FHD (CIHAZ) | YÜKSEK KALİTEDİR!" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="TR • BeIN SPORTS",TR: BeinSports 1 FHD (CIHAZ) | YÜKSEK KALİTEDİR!
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1536249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 1 HD" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="TR • BeIN SPORTS",TR: BeinSports 1 HD
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1536247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 1 ʜᴅ 720 ⚽️ ( CİHAZ )" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="TR • BeIN SPORTS",TR: BeinSports 1 ʜᴅ 720 ⚽️ ( CİHAZ )
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1536251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 1 SD" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="TR • BeIN SPORTS",TR: BeinSports 1 SD
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1536248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 1 SD 560p ⚽️ ( CİHAZ )" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="TR • BeIN SPORTS",TR: BeinSports 1 SD 560p ⚽️ ( CİHAZ )
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1536250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 2 ʜᴅ 1080 50 FPS ⚽️" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="TR • BeIN SPORTS",BeinSports 2 ʜᴅ 1080 50 FPS ⚽️
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 2 ʜᴅ 1080 ⚽️ ( CİHAZ )" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="TR • BeIN SPORTS",BeinSports 2 ʜᴅ 1080 ⚽️ ( CİHAZ )
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 2 ʜᴅ 720 ⚽️" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="TR • BeIN SPORTS",BeinSports 2 ʜᴅ 720 ⚽️
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 2 ʜᴅ 1080 ⚽️" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="TR • BeIN SPORTS",BeinSports 2 ʜᴅ 1080 ⚽️
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 2 ʜᴅ 720 ⚽️ (CİHAZ)" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="TR • BeIN SPORTS",BeinSports 2 ʜᴅ 720 ⚽️ (CİHAZ)
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1536504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 3 ʜᴅ 1080 50 FPS ⚽️" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="TR • BeIN SPORTS",TR: BeinSports 3 ʜᴅ 1080 50 FPS ⚽️
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 3 FHD ( CIHAZ ) 1080 HD" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="TR • BeIN SPORTS",TR: BeinSports 3 FHD ( CIHAZ ) 1080 HD
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 3 HD 720p ⚽️" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="TR • BeIN SPORTS",TR: BeinSports 3 HD 720p ⚽️
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 4 ʜᴅ 1080 ⚽️ ( CİHAZ )" tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="TR • BeIN SPORTS",TR: BeinSports 4 ʜᴅ 1080 ⚽️ ( CİHAZ )
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 4 ʜᴅ 1080 ⚽️" tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="TR • BeIN SPORTS",TR: BeinSports 4 ʜᴅ 1080 ⚽️
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 4 ʜᴅ 720 ⚽️" tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="TR • BeIN SPORTS",TR: BeinSports 4 ʜᴅ 720 ⚽️
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 4 ʜᴅ 720 ⚽️ (CİHAZ)" tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="TR • BeIN SPORTS",TR: BeinSports 4 ʜᴅ 720 ⚽️ (CİHAZ)
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1536506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 5 ʜᴅ 1080 50 FPS ⚽️" tvg-logo="https://i.imgur.com/2Rha5aY.png" group-title="TR • BeIN SPORTS",TR: BeinSports 5 ʜᴅ 1080 50 FPS ⚽️
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 5 ʜᴅ 1080p ⚽️" tvg-logo="https://i.imgur.com/2Rha5aY.png" group-title="TR • BeIN SPORTS",TR: BeinSports 5 ʜᴅ 1080p ⚽️
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 5 ʜᴅ 720p ⚽️ (CİHAZ)" tvg-logo="https://i.imgur.com/2Rha5aY.png" group-title="TR • BeIN SPORTS",TR: BeinSports 5 ʜᴅ 720p ⚽️ (CİHAZ)
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 5 ʜᴅ 720p ⚽️" tvg-logo="https://i.imgur.com/2Rha5aY.png" group-title="TR • BeIN SPORTS",TR: BeinSports 5 ʜᴅ 720p ⚽️
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1536507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiNSPORTSMAX 1 ʜᴅ 1080 50 FPS ⚽️" tvg-logo="https://i.imgur.com/FjWQjdy.png" group-title="TR • BeIN SPORTS",BEiNSPORTSMAX 1 ʜᴅ 1080 50 FPS ⚽️
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiNSPORTS MAX 1 ʜᴅ 1080 ⚽️" tvg-logo="https://i.imgur.com/FjWQjdy.png" group-title="TR • BeIN SPORTS",BEiNSPORTS MAX 1 ʜᴅ 1080 ⚽️
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiNSPORTS MAX 1 ʜᴅ 720 ⚽️" tvg-logo="https://i.imgur.com/FjWQjdy.png" group-title="TR • BeIN SPORTS",BEiNSPORTS MAX 1 ʜᴅ 720 ⚽️
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiNSPORTSMAX 2 ʜᴅ 1080 50 FPS ⚽️" tvg-logo="https://i.imgur.com/5dBc5rn.png" group-title="TR • BeIN SPORTS",BEiNSPORTSMAX 2 ʜᴅ 1080 50 FPS ⚽️
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiNSPORTSMAX 2 ʜᴅ 1080 50 FPS ⚽️" tvg-logo="https://i.imgur.com/5dBc5rn.png" group-title="TR • BeIN SPORTS",BEiNSPORTSMAX 2 ʜᴅ 1080 50 FPS ⚽️
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiNSPORTS MAX 2 ʜᴅ 720 ⚽️" tvg-logo="https://i.imgur.com/5dBc5rn.png" group-title="TR • BeIN SPORTS",BEiNSPORTS MAX 2 ʜᴅ 720 ⚽️
+https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1505746.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TiViBUSPOR 4 ʜᴅ 1080" tvg-logo="https://i.imgur.com/LgGxe7z.png" group-title="TR • TIVIBU SPORTS",TiViBUSPOR 4 ʜᴅ 1080
 https://cagri636.shop/live/Tolunaytorlak/Tolunay59/9316.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TiViBUSPOR 4 ʜᴅ 1080" tvg-logo="https://i.imgur.com/LgGxe7z.png" group-title="TR • TIVIBU SPORTS",TiViBUSPOR 4 ʜᴅ 1080
