@@ -103,6 +103,14 @@ https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1040.m3u8
 https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1041.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Habertürk SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk-tr.png" group-title="TR • HABER",Habertürk SD
 https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHOW MAX ʜᴅ 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-max-tr.png" group-title="TR • ULUSAL",SHOW MAX ʜᴅ 1080
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/1447427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV ʜᴅ 720p" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ntv-tr.png" group-title="TR • HABER",NTV ʜᴅ 720p
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/1061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ SZC TV ʜᴅ 720" tvg-logo="https://i.imgur.com/BxpdvsG.png" group-title="TR • HABER",SÖZCÜ SZC TV ʜᴅ 720
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/1066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT HABER ʜᴅ 720" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tgrt-haber-tr.png" group-title="TR • HABER",TGRT HABER ʜᴅ 720
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/1077.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Habertürk SD [Mobile]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk-tr.png" group-title="TR • HABER",Habertürk SD [Mobile]
 https://cagri636.shop/live/Tolunaytorlak/Tolunay59/1043.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV ʜᴅ 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/halk-tv-tr.png" group-title="TR • HABER",HALK TV ʜᴅ 1080
@@ -297,3 +305,39 @@ https://cagri636.shop/live/Tolunaytorlak/Tolunay59/9316.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-hd-tr.png" group-title="TR • SPOR",TR: TRT SPOR FHD
 https://mert898.shop/live/Tolunaytorlak/Tolunay59/9321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPORTS TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sports-tv-tr.png" group-title="TR • SPOR",TR: SPORTS TV
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRTSPOR ʜᴅ 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-hd-tr.png" group-title="TR • SPOR",TRTSPOR ʜᴅ 1080
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ASPOR FHD (50FPS)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" group-title="TR • SPOR",ASPOR FHD (50FPS)
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ASPOR ʜᴅ 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" group-title="TR • SPOR",ASPOR ʜᴅ 1080
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BYHORSES TV HD" tvg-logo="" group-title="TR • SPOR",TR: BYHORSES TV HD
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport HD" tvg-logo="https://i.imgur.com/bgQ6kz7.png" group-title="TR • SPOR",Edge Sport HD
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FBTV ʜᴅ" tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="TR • SPOR",FBTV ʜᴅ
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHT BOX" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="TR • SPOR",TR: FIGHT BOX
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHT NETWORK" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="TR • SPOR",TR: FIGHT NETWORK
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GS ʜᴅ" tvg-logo="https://i.imgur.com/fC3KuwT.jpg" group-title="TR • SPOR",GS ʜᴅ
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD" tvg-logo="https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="TR • SPOR",TR: NBA TV HD
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TJK TV ʜᴅ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tjk-tv-tr.png" group-title="TR • SPOR",TJK TV ʜᴅ
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: UFC Fight HD" tvg-logo="" group-title="TR • SPOR",TR: UFC Fight HD
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ ʜᴅ 720" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="TR • SPOR",TRT SPOR YILDIZ ʜᴅ 720
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ASPOR ʜᴅ 720" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" group-title="TR • SPOR",ASPOR ʜᴅ 720
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRTSPOR ʜᴅ 720p" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-hd-tr.png" group-title="TR • SPOR",TRTSPOR ʜᴅ 720p
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ ʜᴅ 1080" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="TR • SPOR",TRT SPOR YILDIZ ʜᴅ 1080
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ ʜᴅ 720" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="TR • SPOR",TRT SPOR YILDIZ ʜᴅ 720
+https://mert898.shop/live/Tolunaytorlak/Tolunay59/9328.m3u8
